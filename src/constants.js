@@ -1,0 +1,9 @@
+export const WRITE_PERM = "write";
+export const RANK_PERM = "rank";
+export const COMMENT_PERM = "comment";
+export const TOKEN = "authToken";
+export const ROLE = "role";
+export const ADMIN = "admin";
+export const USER = "user";
+export const ADMIN_EMAIL = "admin@admin.com";
+export const CURRENT_USER_ID = "id";

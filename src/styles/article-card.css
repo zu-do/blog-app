@@ -1,0 +1,10 @@
+.blog-item-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-item-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
